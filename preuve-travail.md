@@ -4,6 +4,6 @@
 [logo]: commit.png "Commit Preuve"
 
 
-![alt text][logo]
+![alt text][logo2]
 
-[logo]: tag.png "tag preuve" 
+[logo2]: tag.png "tag preuve" 
