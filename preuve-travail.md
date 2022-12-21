@@ -1,9 +1,5 @@
-![alt text][logo]
+[alt text](comit.png "Preuve du commit")
 
 
-[logo]: commit.png "Commit Preuve"
+[alt text](tag.png "Preuve du tag")
 
-
-![alt text][logo2]
-
-[logo2]: tag.png "tag preuve" 
